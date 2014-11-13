@@ -1,4 +1,4 @@
-package hriseyplayground.pwittchen.com.hriseyplayground;
+package hriseyplayground.pwittchen.com.hriseyplayground.boilerplate;
 
 import android.os.Parcelable;
 
