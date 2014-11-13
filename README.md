@@ -8,4 +8,5 @@ Playing with Hrisey to remove boilerplate code from Android projects
 ##References
 
 Hrisey: https://github.com/mg6maciej/hrisey
+
 Lombok: http://projectlombok.org/
