@@ -11,8 +11,6 @@ In order to use Hrisey, you need to install Hrisey plugin for Android Studio (In
 
 ##References
 
-Hrisey: https://github.com/mg6maciej/hrisey
-
-Lombok: http://projectlombok.org/
-
-Available annotations: https://github.com/mg6maciej/hrisey/wiki/Available-Annotations
+- Hrisey: https://github.com/mg6maciej/hrisey
+- Lombok: http://projectlombok.org/
+- Available annotations: https://github.com/mg6maciej/hrisey/wiki/Available-Annotations
