@@ -2,7 +2,7 @@ package pwittchen.com.hriseyplayground.boilerplate;
 
 import android.content.SharedPreferences;
 
-public class SamplePrefs {
+public final class SamplePrefs {
     private static final String MY_FLOAT = "myFloat";
     private static final String MY_INT = "myInt";
 
